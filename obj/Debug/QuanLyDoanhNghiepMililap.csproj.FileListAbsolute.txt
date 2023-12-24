@@ -1,0 +1,179 @@
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.exe.config
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.pdb
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.Form1.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.pdb
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fChinh.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fNCC.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fKhachHang.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiVT.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiDV.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fVatTu.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDichVu.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fHoaDon.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fPhieuChi.resources
+C:\Users\ADMIN\source\repos\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDonDatHangg.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.exe.config
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.pdb
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fChinh.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDichVu.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDonDatHangg.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fHoaDon.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fKhachHang.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiDV.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiVT.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fNCC.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.Form1.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fPhieuChi.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fVatTu.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.Properties.Resources.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.pdb
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoThang.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoNgay.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeKhachHangVip.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuTrongKho.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuHetTrongKho.resources
+C:\Users\DELL\Documents\mililap\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.exe.config
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.pdb
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fChinh.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDichVu.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoThang.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDonDatHangg.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fHoaDon.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fKhachHang.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiDV.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiVT.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fNCC.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.Form1.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fPhieuChi.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoNgay.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeKhachHangVip.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuHetTrongKho.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuTrongKho.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fVatTu.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\ADMIN\Desktop\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.pdb
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.AssemblyReference.cache
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.ResolveComReference.cache
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fChinh.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDichVu.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoThang.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDonDatHang.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDonDatHangg.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fHoaDon.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fKhachHang.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiDV.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiVT.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fNCC.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.Form1.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fPhieuChi.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoNgay.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeKhachHangVip.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuHetTrongKho.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuTrongKho.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.fVatTu.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.Properties.Resources.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.GenerateResource.cache
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.CoreCompileInputs.cache
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.pdb
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.exe.config
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\bin\Debug\QuanLyDoanhNghiepMililap.pdb
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.tblPhieuChi.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.chitiethoadonbanhang.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.tblkho.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.hoadongiaohang.resources
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\bin\Debug\EPPlus.Core.dll
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\bin\Debug\EPPlus.Core.xml
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.csproj.CopyComplete
+C:\Users\traih\Downloads\QuanLyDoanhNghiepMililap (1)\QuanLyDoanhNghiepMililap\obj\Debug\QuanLyDoanhNghiepMililap.thongkevattu.resources
+C:\Users\traih\pjDoHoiancalon\bin\Debug\QuanLyDoanhNghiepMililap.exe.config
+C:\Users\traih\pjDoHoiancalon\bin\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\traih\pjDoHoiancalon\bin\Debug\QuanLyDoanhNghiepMililap.pdb
+C:\Users\traih\pjDoHoiancalon\bin\Debug\EPPlus.Core.dll
+C:\Users\traih\pjDoHoiancalon\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\traih\pjDoHoiancalon\bin\Debug\EPPlus.Core.xml
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.AssemblyReference.cache
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.ResolveComReference.cache
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.chitiethoadonbanhang.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fChinh.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDichVu.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoThang.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDonDatHang.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDonDatHangg.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fHoaDon.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fKhachHang.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiDV.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiVT.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fNCC.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.Form1.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fPhieuChi.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoNgay.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeKhachHangVip.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuHetTrongKho.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuTrongKho.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fVatTu.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.hoadongiaohang.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.Properties.Resources.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.tblkho.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.tblPhieuChi.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.thongkevattu.resources
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.GenerateResource.cache
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.CoreCompileInputs.cache
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.CopyComplete
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.exe
+C:\Users\traih\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.pdb
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.AssemblyReference.cache
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.ResolveComReference.cache
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.chitiethoadonbanhang.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fChinh.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDichVu.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoThang.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDonDatHang.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDonDatHangg.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fHoaDon.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fKhachHang.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiDV.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fLoaiVT.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fNCC.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.Form1.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fPhieuChi.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fDoanhThuTheoNgay.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeKhachHangVip.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuHetTrongKho.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fThongKeVatTuTrongKho.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.fVatTu.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.hoadongiaohang.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.Properties.Resources.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.tblkho.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.tblPhieuChi.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.thongkevattu.resources
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.GenerateResource.cache
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.CoreCompileInputs.cache
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.exe
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.pdb
+D:\Abcabc\pjDoHoiancalon\bin\Debug\QuanLyDoanhNghiepMililap.exe.config
+D:\Abcabc\pjDoHoiancalon\bin\Debug\QuanLyDoanhNghiepMililap.exe
+D:\Abcabc\pjDoHoiancalon\bin\Debug\QuanLyDoanhNghiepMililap.pdb
+D:\Abcabc\pjDoHoiancalon\bin\Debug\EPPlus.Core.dll
+D:\Abcabc\pjDoHoiancalon\bin\Debug\EPPlus.Core.xml
+D:\Abcabc\pjDoHoiancalon\obj\Debug\QuanLyDoanhNghiepMililap.csproj.CopyComplete
